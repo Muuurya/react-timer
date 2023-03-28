@@ -1,0 +1,117 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container {
+  max-width: 500px;
+  text-align: center;
+  border: 1px solid;
+  border-radius: 10px;
+  margin-top: 50px;
+  margin-left: 350px;
+}
+.card1 {
+  border-bottom: 1px solid;
+  padding: 10px;
+}
+.card2 {
+  border-bottom: 1px solid;
+  padding: 10px;
+  display: flex;
+  gap: 5px;
+  padding-left: 150px;
+}
+.card3 {
+  padding: 10px;
+}
+.btn-1 {
+  background-color: #00ff73;
+  color: black;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: 0.3s linear;
+  margin-left: 5px;
+}
+.btn-1:hover {
+  color: aliceblue;
+  background-color: black;
+}
+.btn-2 {
+  background-color: #bbff00;
+  color: black;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: 0.3s linear;
+  margin-left: 5px;
+}
+.btn-2:hover {
+  color: aliceblue;
+  background-color: black;
+}
+.btn-3 {
+  background-color: #00e1ff;
+  color: black;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: 0.3s linear;
+  margin-left: 5px;
+}
+.btn-3:hover {
+  color: aliceblue;
+  background-color: black;
+}
+.btn-4 {
+  background-color: #a200ff;
+  color: black;
+  padding: 10px 30px;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: 0.3s linear;
+  margin-left: 5px;
+}
+.btn-4:hover {
+  color: aliceblue;
+  background-color: black;
+}
+.btn-5 {
+  background-color: #3cff00;
+  color: black;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: 0.3s linear;
+  margin-left: 5px;
+}
+.btn-5:hover {
+  color: aliceblue;
+  background-color: black;
+}
+.btn-6 {
+  background-color: #ff0000;
+  color: black;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  cursor: pointer;
+  transition: 0.3s linear;
+  margin-left: 5px;
+}
+.btn-6:hover {
+  color: aliceblue;
+  background-color: black;
+}
